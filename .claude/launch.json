@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ctos-dev",
+      "runtimeExecutable": "cmd.exe",
+      "runtimeArgs": ["/c", "cd /d D:/ctos-search && npx next dev -p 3100"],
+      "port": 3100
+    }
+  ]
+}
